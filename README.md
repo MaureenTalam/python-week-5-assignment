@@ -1,6 +1,5 @@
 # python-week-5-assignment
 Demonstrate your understanding of Python file handling by completing the following tasks.
-
 Tasks:
 
 File Creation:
